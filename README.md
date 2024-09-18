@@ -1,3 +1,3 @@
 # git-boot-camp-20200610
 
-“K“–‚És‚ğ’Ç‰Á
+test
